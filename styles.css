@@ -7,6 +7,12 @@
     color: var(--text-color);
 
 }
+html{
+    background-image: url(./Assets/background.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: top center;
+}
 
 :root {
     --text-color: rgb(215, 213, 213);
@@ -21,10 +27,7 @@
   }
 
 body{
-    background-image: url(./Assets/background.png);
-    background-repeat: no-repeat;
-    background-size: cover;
-    background-position: top center;
+
     font-family: 'Inter', sans-serif;
     height: 100vh;
 }
