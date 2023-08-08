@@ -47,7 +47,8 @@ body{
     }
 .nome-vitoria {
     font-family: 'Amsterdam', sans-serif;       
-    font-size: 25px;                         
+    font-size: 25px;      
+    font-weight: 100;                   
 }
 .dentista{
     font-family:  'Alike', sans-serif;
